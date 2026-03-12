@@ -1,13 +1,15 @@
-IDR Assignment – Frontend Submission
+# Institute of Digital Risk – Assignment
 
-Technologies Used
-- HTML5
-- CSS3
-- Vanilla JavaScript
+Responsive homepage and logo design for the Institute of Digital Risk (IDR).
 
-Features
-- Responsive layout
+## Technologies
+HTML5  
+CSS3  
+JavaScript  
+
+## Features
+- Responsive design
 - Sticky navigation
-- Scroll animations
+- Smooth scrolling
 - Mobile menu
-- Accessible design
+- Animated cube hero
